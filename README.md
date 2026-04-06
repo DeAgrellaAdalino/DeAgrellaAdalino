@@ -1,6 +1,5 @@
 # Hello. Thanks for visiting my profile
 ### Here are some of my skills (with opinions)
----
 Delphi is okay
 Java makes me want to bite someones toes
 SQL looks like a nightmare at a higher levels
