@@ -1,5 +1,4 @@
 # Hello. Thanks for visiting my profile
----
 ### Here are some of my skills (with opinions)
 ---
 Delphi is okay
