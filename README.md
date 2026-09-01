@@ -5,7 +5,7 @@ Delphi is okay  | Understand Delphi UI, matric level understanding
 
 Java makes me want to bite someones toes | Completing java book: Java Programming 10th Edition  - Joyce Farrell
 
-SQL looks like a nightmare at a higher levels | Currenly matric level understanding, current course does go in depth
+SQL looks like a nightmare at a higher levels | Completing course on mySQL
 
 Bash looks interesting, hopefully I don't destory my VM with bad code | Elementry understanding, working on course
 
