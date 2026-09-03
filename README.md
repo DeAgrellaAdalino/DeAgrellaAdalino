@@ -10,6 +10,6 @@ SQL looks like a nightmare at a higher levels | Completing course on mySQL
 Bash looks interesting, hopefully I don't destory my VM with bad code | Elementry understanding, working on course
 
 ### Current Project(s) working on:
-* (Paused) Working on a "banking program" that **SHOULD NOT BE USED FOR PROFESSIONAL USE**
+* Working on a "Generic Banking Application" that **SHOULD NOT BE USED FOR PROFESSIONAL USE**
 * Simple Java messaging app (Private, course related policy)
 * Random Bash program to learn the "language"
